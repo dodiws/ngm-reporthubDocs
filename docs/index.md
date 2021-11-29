@@ -1,13 +1,13 @@
 # Welcome to Reporthub MkDocs :books:
- [mkdocs.org](https://www.mkdocs.org).
+ <!-- [mkdocs.org](https://www.mkdocs.org). -->
 
 ## Repositories
 
-* Front End [https://github.com/drfaustusfade/ngm-reportHub](https://github.com/drfaustusfade/ngm-reportHub).
+* Front End [https://github.com/iMMAP/ngm-reportHub](https://github.com/iMMAP/ngm-reportHub).
 
-* Back End [https://github.com/drfaustusfade/ngm-reportEngine](https://github.com/drfaustusfade/ngm-reportEngine).
+* Back End [https://github.com/iMMAP/ngm-reportEngine](https://github.com/iMMAP/ngm-reportEngine).
 
-## API
+<!-- ## API
 
 * API Redoc Documentation :pencil: https://dev.reporthub.org/apidocs
 ## Commands
@@ -22,4 +22,4 @@
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        ...       # Other markdown pages, images and other files. -->
